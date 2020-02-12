@@ -1,0 +1,18 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro');
+
+// Variables
+@import 'variables';
+$fa-font-path:        "../webfonts";
+
+// Bootstrap (We don't need this with AdminLTE)
+//@import '~bootstrap/scss/bootstrap';
+
+// AdminLTE 3
+@import '~admin-lte/dist/css/adminlte.css';
+
+//FontAwesome
+@import '~@fortawesome/fontawesome-free/scss/fontawesome.scss';
+@import '~@fortawesome/fontawesome-free/scss/solid.scss';
+@import '~@fortawesome/fontawesome-free/scss/brands.scss';
